@@ -1,7 +1,6 @@
 strax==0.12.2 
 straxen==0.11.0
 pandas
-json
 glob
 nestpy
 numpy
